@@ -1,0 +1,470 @@
+[
+  {
+    "id": "1dfab25f-758e-4757-8131-dcb8851e8ab2",
+    "data": [
+      {
+        "text": "quit playing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c49990c3-6a92-48e7-a769-5f0ab9c175e1",
+    "data": [
+      {
+        "text": "stop",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "updated": 0
+  },
+  {
+    "id": "9d84441a-2853-49d7-b19d-5e9596fe91bf",
+    "data": [
+      {
+        "text": "kill",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "31302bfc-664e-40de-887e-f7e92414432d",
+    "data": [
+      {
+        "text": "I have to go",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "53b29d4e-09fb-4b5b-b35f-581f04b2b671",
+    "data": [
+      {
+        "text": "end game",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "beca3411-5373-4e3d-984f-2e3d0bc899d2",
+    "data": [
+      {
+        "text": "I quit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9fab1c8c-9211-47ed-8032-30d8a7cc1925",
+    "data": [
+      {
+        "text": "game over",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "43cecc2d-ca6d-4afd-bd51-925064432a25",
+    "data": [
+      {
+        "text": "bye",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "51a65c45-ce00-4dcb-8a99-161c733d9af4",
+    "data": [
+      {
+        "text": "never mind",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f860fe86-9fe3-4c66-8ffa-a195fa8d6b84",
+    "data": [
+      {
+        "text": "end",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "805042ee-8393-4765-b706-4db50f4cf574",
+    "data": [
+      {
+        "text": "i don\u0027t want to play anymore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a7f3dc9c-5f2a-47b3-98cf-7958d2558eb4",
+    "data": [
+      {
+        "text": "cancel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "66443a8f-b6f8-4cd6-bbdd-e99b9064970e",
+    "data": [
+      {
+        "text": "go away",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3cacaffc-393e-4e9a-90ae-30a7cfe7f18e",
+    "data": [
+      {
+        "text": "quit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3c1a67d6-b207-4b62-b9f3-32e2435e1941",
+    "data": [
+      {
+        "text": "stop it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a4633290-66c7-4bb1-b480-e484f9e66525",
+    "data": [
+      {
+        "text": "shut up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dc8c5deb-0024-4731-8e16-84d373487953",
+    "data": [
+      {
+        "text": "close",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "77674414-4fd3-4d15-b43e-2c1c96a011a0",
+    "data": [
+      {
+        "text": "thanks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f766cc81-f59a-43ee-a509-fdb2fc88a646",
+    "data": [
+      {
+        "text": "stop this game",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a4c29fa5-72c9-4c8b-8d49-ad61db12a528",
+    "data": [
+      {
+        "text": "forget that",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b8550f31-d54b-47f5-8553-06e704e57800",
+    "data": [
+      {
+        "text": "I\u0027m done",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c7b9e4d8-d849-418b-87cc-05ba72c3c347",
+    "data": [
+      {
+        "text": "nevermind",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7305267f-b8d6-4c1e-bafb-3b58643350b6",
+    "data": [
+      {
+        "text": "do nothing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3a8bb6b7-a0bd-486a-ac14-f4e159b87335",
+    "data": [
+      {
+        "text": "just forget about it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "8d982bf7-d612-49ca-b035-4386dc6e3393",
+    "data": [
+      {
+        "text": "dismiss",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d471a900-abd8-4dce-8295-06fc64a2d6e0",
+    "data": [
+      {
+        "text": "skip",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "7f905360-5404-4b42-aa8e-af806f29df6d",
+    "data": [
+      {
+        "text": "end playing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7040412a-f281-406b-9d2c-804d3c3f8e0f",
+    "data": [
+      {
+        "text": "exit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4581d043-9c2f-4ab8-94dc-954144fa6c6f",
+    "data": [
+      {
+        "text": "Let\u0027s talk later",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f298aa42-21c8-4b95-9d8a-42338665a083",
+    "data": [
+      {
+        "text": "i\u0027m done now",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fc96b3ed-1617-4c1a-8d64-3c9502e54cca",
+    "data": [
+      {
+        "text": "cancel that",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 5,
+    "updated": 0
+  },
+  {
+    "id": "81d9a3b7-c9dd-4639-9f00-b6acded2c740",
+    "data": [
+      {
+        "text": "finish",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "55f669cf-39d1-4f2e-8123-d36b1c5e16c3",
+    "data": [
+      {
+        "text": "let stop here",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f8f80e34-763a-4f51-b962-639a9e095506",
+    "data": [
+      {
+        "text": "terminate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9742085a-76ee-443d-bbdc-e2d510bfc6ec",
+    "data": [
+      {
+        "text": "good bye",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8cd71dff-cb3b-4114-ad69-844d60c08cbe",
+    "data": [
+      {
+        "text": "let\u0027s stop",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2d4347a3-8477-4e7d-8f17-af57307ce0b0",
+    "data": [
+      {
+        "text": "stop playing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "be433513-7c0f-4786-b89b-634ed3f9386c",
+    "data": [
+      {
+        "text": "stop game",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "789745af-c5e1-4a23-8eab-22b17c2c7841",
+    "data": [
+      {
+        "text": "turn off",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

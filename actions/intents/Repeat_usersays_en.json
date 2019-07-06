@@ -1,0 +1,302 @@
+[
+  {
+    "id": "1a50b85c-e636-4484-9f0a-e8a813b98275",
+    "data": [
+      {
+        "text": "again",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "007d05b0-33de-4691-87d0-238c5e4a9f2d",
+    "data": [
+      {
+        "text": "come again",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "c0089bca-729a-444d-aa7f-4abbb377e17b",
+    "data": [
+      {
+        "text": "go back",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "37690d9e-0fc2-437e-b0c3-3b98ed5ec2c3",
+    "data": [
+      {
+        "text": "I didn\u0027t hear that",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "31fbe3f7-53e3-4950-8588-708f4c80f873",
+    "data": [
+      {
+        "text": "could you repeat that",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "67b4f4b9-462b-4829-8f54-be714915d452",
+    "data": [
+      {
+        "text": "say the same again",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b745aa1b-b1dd-45d7-a6a4-6ab6f234d9c5",
+    "data": [
+      {
+        "text": "what?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "d1651391-9e8c-43f9-8307-a5dd85cec083",
+    "data": [
+      {
+        "text": "repeat that",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f6f96f61-f068-4cd5-8dbb-05cedad203e3",
+    "data": [
+      {
+        "text": "please repeat that",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5d6f15ad-ea18-4130-848a-9ea8b746c49d",
+    "data": [
+      {
+        "text": "repeat response",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6cfd638f-082e-4459-a52c-cb99503a0fa3",
+    "data": [
+      {
+        "text": "what did you say?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "76f31d0c-e112-40c6-a24b-9b580664bb0f",
+    "data": [
+      {
+        "text": "could you say that again?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "240643b2-92f6-4312-8d67-2a050d7d849e",
+    "data": [
+      {
+        "text": "say that again",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bceea661-31ce-4edd-a0ac-3a51e6c67870",
+    "data": [
+      {
+        "text": "do it again",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4a56dd21-12bf-4937-987e-fa13e178ffd4",
+    "data": [
+      {
+        "text": "repeat it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a6ad57f8-dafb-499b-87a0-34da82bbb888",
+    "data": [
+      {
+        "text": "I didn\u0027t catch that",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "59256e78-3478-435b-9461-f09ef4876caa",
+    "data": [
+      {
+        "text": "what was that?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d3d00124-946c-456a-a072-8ef223ccd3b4",
+    "data": [
+      {
+        "text": "again?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "637f027b-887a-46f4-ba01-cdd849ca5dac",
+    "data": [
+      {
+        "text": "repeat last response",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3bb27988-95c6-4f82-b7f8-f9b9369db5b0",
+    "data": [
+      {
+        "text": "could you repeat that?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "64a41d8a-2469-4fa2-9876-06d5e614dee7",
+    "data": [
+      {
+        "text": "repeat these results",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cae73a85-7978-4fb8-82a2-aa4f31fd8338",
+    "data": [
+      {
+        "text": "repeat what you\u0027ve just said",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "878e4af7-2132-4b62-8dd3-a5977471b702",
+    "data": [
+      {
+        "text": "say again?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bf486e6c-72e4-4312-94d7-5b2aa10a7ed7",
+    "data": [
+      {
+        "text": "repeat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "985c1d61-f887-4eca-91e7-af276a864b08",
+    "data": [
+      {
+        "text": "say it again",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  }
+]
