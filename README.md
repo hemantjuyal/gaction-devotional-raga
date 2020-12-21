@@ -1,6 +1,3 @@
-# gaction-devotional-raga
-google action for daily morning mantra
-
 # Devotional Raga is a Google Action having daily devotional mantra. This action supports all Google Assistant enabled devices including smart displays
 
 ## Project Structure</b>
